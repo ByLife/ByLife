@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on RevoChat (github.com/revochat)<br><br>👨‍💻 All of my projects are available at https://bylife.fr<br><br>📫 How to reach me bylife@bylife.fr<br><br>📄 Know about my experiences https://bylife.fr<br><br>⚡ We are what we write
+🔭 I’m currently working on RevoChat (github.com/revochat)<br><br>👨‍💻 All of my projects are available in my github and at https://bylife.fr (UNDER DEVELOPMENT)<br><br>📫 How to reach me bylife@bylife.fr<br><br>📄 Know about my experiences https://portfolio.bylife.fr<br><br>⚡ We are what we write
 
 
 # 💻 Tech Stack:
